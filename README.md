@@ -2,10 +2,6 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 ## ☎️ Contacts
 
 * [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/ddmoody)
