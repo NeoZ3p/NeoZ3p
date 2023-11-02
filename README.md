@@ -1,4 +1,4 @@
-# Hi everyone! 👋 I'm Dmitry and I'm 19.
+# Hi everyone! 👋 I'm Dmitry and I'm 20.
 
 ---
 
@@ -17,6 +17,4 @@
 * [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)](https://dart.dev/) [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=lightblue)](http://flutter.dev/)
 
 --- 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=neoz3p&count_private=true&theme=default&show_icons=true)
-![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=neoz3p&layout=compact&theme=default)
 [![Coderanks Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=neoz3p&badges=3&branding=false&show-header=true)](https://profile.codersrank.io/user/neoz3p/)
