@@ -1,4 +1,4 @@
-# Hi everyone! 👋 I'm Dmitry and I'm 22.
+# Hi everyone! 👋 I'm Dmitrii and I'm 22.
 
 ---
 
